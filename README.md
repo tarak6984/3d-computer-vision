@@ -80,4 +80,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📬 Contact
-For any questions or suggestions, please open an issue or contact [Your Email/Contact Info].
+For any questions or suggestions, please open an issue or contact [tareksabbir20@gmail.com](mailto:tareksabbir20@gmail.com).
